@@ -1,0 +1,111 @@
+{
+  "destinations": [
+      {
+        "id": 1,
+        "title": "India",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Iceland",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Chicago",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Tokya",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 5,
+        "title": "Barcelona",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 6,
+        "title": "London",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 7,
+        "title": "Rome",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 8,
+        "title": "Italy",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 9,
+        "title": "Malasiya",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 10,
+        "title": "Finland",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 11,
+        "title": "HongKong",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 12,
+        "title": "Paris",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 13,
+        "title": "Germany",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 14,
+        "title": "Sydney",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 15,
+        "title": "Argentina",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 16,
+        "title": "France",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 17,
+        "title": "Rome",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 18,
+        "title": "Italy",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 19,
+        "title": "Malasiya",
+        "img": "assets/img/bg1.jpg" 
+      },
+      {
+        "id": 20,
+        "title": "Finland",
+        "img": "assets/img/bg1.jpg" 
+      }
+  ],
+  "posts": [
+      { "id": 1, "title": "json-server", "img": "assets/img/bg1.jpg" }
+  ],
+  "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "assets/img/bg1.jpg" }
+}
